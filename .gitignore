@@ -241,3 +241,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+discoverse/gaussian_web_renderer/VideoProcessingFramework/
